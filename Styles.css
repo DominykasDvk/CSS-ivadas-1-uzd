@@ -1,0 +1,98 @@
+h1, h3{
+  font-size: 40px;
+  font-weight: normal;
+  color: #996633;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.gap1{
+  height: 200px;
+  width: 50%;
+  border: 2px solid black;
+  background-color: #33cc33;
+}
+.gap2{
+  height: 200px;
+  width: 50%;
+  border: 2px solid black;
+  background-color: #0033cc;
+}
+.gap3{
+  height: 200px;
+  width: 50%;
+  padding: 20px;
+  border: 5px solid black;
+  background-color: #ff9900;
+}
+.gap4{
+  height: 200px;
+  width: 50%;
+  border: 5px solid black;
+  padding: 20px;
+  background-color: #ffff99;
+  box-sizing: border-box;
+}
+.par1 {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+.par1 span{
+   font-family: 'Goldman', cursive, sans-serif;
+}
+.par2 {
+  font-size: 24px;
+}
+.par2 span {
+   color: tomato;
+}
+.par3{
+  width: 40%;
+}
+.par3 span{
+  display: inline-block;
+}
+.par4{
+  border: 4px solid black;
+  font-size: 30px;
+  color: #66ccff;
+}
+.par4 span {
+  font-size: 20px;
+}
+.par5 {
+  font-style: italic;
+}
+.par5 span {
+  font-weight: bold;
+}
+.par6 {
+  text-decoration: underline;
+}
+.par6 span{
+  text-decoration: line-through;
+}
+.par7{
+  margin: 24px;
+}
+.par7 span{
+  text-transform: uppercase;
+}
+.par8{
+  text-indent: 30px;
+}
+.par8 span{
+  background-color: Yellow;
+}
+.par9{
+  background-color: #009933;
+}
+.par9 span{
+  background-color: white;
+}
+.par10{
+  font-family: 'Goldman', cursive, sans-serif;
+  color: #660066;
+  font-size: 30px;
+}
+.par10 span{
+  text-decoration: underline;
+}
